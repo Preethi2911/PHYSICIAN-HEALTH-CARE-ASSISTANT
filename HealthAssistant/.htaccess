@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteRule ^FeverOverview?$ FeverOverview.jsp
+
+RewriteRule ^DengueOverview?$ DengueOverview.jsp
+
+RewriteRule ^RheumaticOverview?$ RheumaticOverview.jsp
+
+
